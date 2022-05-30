@@ -1,0 +1,15 @@
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/bin/Debug/net5.0/HomeTask_4.8.deps.json
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/bin/Debug/net5.0/HomeTask_4.8.runtimeconfig.json
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/bin/Debug/net5.0/HomeTask_4.8.runtimeconfig.dev.json
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/bin/Debug/net5.0/HomeTask_4.8.dll
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/bin/Debug/net5.0/ref/HomeTask_4.8.dll
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/bin/Debug/net5.0/HomeTask_4.8.pdb
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.csproj.AssemblyReference.cache
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.AssemblyInfoInputs.cache
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.AssemblyInfo.cs
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.csproj.CoreCompileInputs.cache
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.dll
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/ref/HomeTask_4.8.dll
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.pdb
+/Users/ilya/Projects/HelloWorld/HomeTask_4.8/obj/Debug/net5.0/HomeTask_4.8.genruntimeconfig.cache

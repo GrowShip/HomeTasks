@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{81C4899C-D023-4769-BE81-DD87311809F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorld" expanded="True">
+            <Node name="007" expanded="True" />
+            <Node name="HomeTask6.6" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HomeTask6.6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.007 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>003/003.csproj</String>
+    <String>Arithmetic/Arithmetic.csproj</String>
+    <String>004_array/004_array.csproj</String>
+    <String>005/005.csproj</String>
+    <String>HomeTask_2.7/HomeTask_2.7.csproj</String>
+    <String>HomeTask_5.5/HomeTask_5.5.csproj</String>
+    <String>HomeTask_4.8/HomeTask_4.8.csproj</String>
+    <String>HomeTask_3.10/HomeTask_3.10.csproj</String>
+    <String>006/006.csproj</String>
+    <String>HomeTask_6.6/HomeTask_6.6.csproj</String>
+    <String>HomeTask7.8/HomeTask7.8.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

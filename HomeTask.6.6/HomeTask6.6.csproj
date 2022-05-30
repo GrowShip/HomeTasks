@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>HomeTask._6._6</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="System.IO.UnmanagedMemoryStream" />
+    <None Remove="System.IO" />
+    <None Remove="System.IO.Compression" />
+    <None Remove="System.IO.FileSystem" />
+    <None Remove="runtime.any.System.IO" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.IO.UnmanagedMemoryStream" Version="4.3.0" />
+    <PackageReference Include="System.IO" Version="4.3.0" />
+    <PackageReference Include="System.IO.Compression" Version="4.3.0" />
+    <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
+    <PackageReference Include="runtime.any.System.IO" Version="4.3.0" />
+  </ItemGroup>
+</Project>

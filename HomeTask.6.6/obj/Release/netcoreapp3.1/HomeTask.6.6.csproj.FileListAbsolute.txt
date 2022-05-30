@@ -1,0 +1,13 @@
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/bin/Release/netcoreapp3.1/HomeTask.6.6.deps.json
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/bin/Release/netcoreapp3.1/HomeTask.6.6.runtimeconfig.json
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/bin/Release/netcoreapp3.1/HomeTask.6.6.runtimeconfig.dev.json
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/bin/Release/netcoreapp3.1/HomeTask.6.6.dll
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/bin/Release/netcoreapp3.1/HomeTask.6.6.pdb
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.csproj.AssemblyReference.cache
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.AssemblyInfoInputs.cache
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.AssemblyInfo.cs
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.csproj.CoreCompileInputs.cache
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.dll
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.pdb
+/Users/ilya/Projects/HelloWorld/HomeTask.6.6/obj/Release/netcoreapp3.1/HomeTask.6.6.genruntimeconfig.cache

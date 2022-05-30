@@ -1,0 +1,3 @@
+/Users/ilya/Projects/HelloWorld/HomeTask_2.7/bin/Release/HomeTask_2.7.exe
+/Users/ilya/Projects/HelloWorld/HomeTask_2.7/obj/anycpu/Release/HomeTask_2.7.csproj.CoreCompileInputs.cache
+/Users/ilya/Projects/HelloWorld/HomeTask_2.7/obj/anycpu/Release/HomeTask_2.7.exe
